@@ -1,6 +1,5 @@
-# Personality type application
-ASP.NET MVC WEB APPLICATION pt determinarea tipului de personalitate realizata in cadrul proiectului _Estival Experience_ la *Pentalog Brasov*
-
+# Personality type application <br> Find your personality type and what movies and places suit you.
+Aplicatie pt determinarea tipului de personalitate realizata in cadrul proiectului _Estival Experience_ la **Pentalog Brasov**
 Find your personality type and what movies and places suit you.
 
 
