@@ -4,7 +4,7 @@ Aplicatie pt determinarea tipului de personalitate realizata in cadrul proiectul
 
 ## Functionalitati
 Orice user poate vedea cele 4 tipuri de personalitati cu descrierile lor (afisate in Popups).\
-Un user logat poate accesa un formular si raspunde la 20 de intrebarile cu raspuns unic (fiecare afisate pe rand intr-un carusel).\
+Un user logat poate accesa un formular si raspunde la 20 de intrebarile cu raspuns unic (fiecare afisata pe rand intr-un carusel).\
 Pe baza intrebarilor se determina la final ce tip de personalitate are userul si se afiseaza o pagina cu sugestii de filme si locuri de vizitat care i s-ar potrivi.
 
 ## Echipa
@@ -24,5 +24,6 @@ Aplicatia a fost implementata in _ASP.NET MVC_ utilizand Visual Studio
 
 ## Files
 [Documentatia](https://github.com/iuga-paula/Personality_type_app/blob/master/Documentatie_Personality_type_app.pdf) se gaseste aici.
-[Controllers]()
-[Views]()
+[Controllerere](https://github.com/iuga-paula/Personality_type_app/tree/master/Controllers) fiecarei entitati ii corespunde un controller - pt. partea de Back-End
+[View-uri]() ceea ce vede utilizatorul.
+[Modele]() entitatile pe baza carora s-au generat tabelele din baza de date si relatiile dintre acestea cu ajutorul migratiilor (code first).
