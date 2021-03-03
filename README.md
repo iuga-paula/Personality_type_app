@@ -23,6 +23,7 @@ Aplicatia a fost implementata in _ASP.NET MVC_ utilizand Visual Studio
 * Bitbucket
 
 ## Diagrama Conceptuala
+![DC](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Conceptual_Diagram.jpg)
 
 ## Fisiere
 * [Documentatia](https://github.com/iuga-paula/Personality_type_app/blob/master/Documentatie_Personality_type_app.pdf) se gaseste aici.
