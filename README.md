@@ -22,7 +22,9 @@ Aplicatia a fost implementata in _ASP.NET MVC_ utilizand Visual Studio
 * DaFont
 * Bitbucket
 
-## Files
+## Diagrama Conceptuala
+
+## Fisiere
 * [Documentatia](https://github.com/iuga-paula/Personality_type_app/blob/master/Documentatie_Personality_type_app.pdf) se gaseste aici.
 * [Controllerere](https://github.com/iuga-paula/Personality_type_app/tree/master/Controllers) fiecarei entitati ii corespunde un controller - pt. partea de Back-End
 * [View-uri](https://github.com/iuga-paula/Personality_type_app/tree/master/Views) ceea ce vede utilizatorul.
