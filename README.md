@@ -1,6 +1,6 @@
-# Personality type application <br> Find your personality type and what movies and places suit you.
+# Personality type application <br> _Find your personality type and what movies and places suit you_.
 Aplicatie pt determinarea tipului de personalitate realizata in cadrul proiectului _Estival Experience_ la **Pentalog Brasov**
-Find your personality type and what movies and places suit you.
+.
 
 
 ## Files
