@@ -31,3 +31,10 @@ Aplicatia a fost implementata in _ASP.NET MVC_ utilizand Visual Studio
 * [Controllerere](https://github.com/iuga-paula/Personality_type_app/tree/master/Controllers) fiecarei entitati ii corespunde un controller - pt. partea de Back-End
 * [View-uri](https://github.com/iuga-paula/Personality_type_app/tree/master/Views) ceea ce vede utilizatorul.
 * [Modele](https://github.com/iuga-paula/Personality_type_app/tree/master/Models) entitatile pe baza carora s-au generat tabelele din baza de date si relatiile dintre acestea cu ajutorul migratiilor (code first).
+
+## Demo
+![Home Page](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Home_page.JPG)
+![Register](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Register.JPG)
+![TestInstr](https://github.com/iuga-paula/Personality_type_app/blob/Photos/TestInstr.JPG)
+![Quizz](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Quizz.JPG)
+![Results](https://github.com/iuga-paula/Personality_type_app/blob/Photos/Res.JPG)
