@@ -8,7 +8,7 @@ Un user logat poate accesa un formular si raspunde la 20 de intrebarile cu raspu
 Pe baza intrebarilor se determina la final ce tip de personalitate are userul si se afiseaza o pagina cu sugestii de filme si locuri de vizitat care i s-ar potrivi.
 
 ## Echipa
-3 persoane + 2 mentori\
+3 persoane + 2 mentori
 
 
 ## Tehnologii si limbaje de programare folosite
