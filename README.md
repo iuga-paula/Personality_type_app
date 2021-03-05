@@ -8,7 +8,8 @@ Un user logat poate accesa un formular si raspunde la 20 de intrebarile cu raspu
 Pe baza intrebarilor se determina la final ce tip de personalitate are userul si se afiseaza o pagina cu sugestii de filme si locuri de vizitat care i s-ar potrivi.
 
 ## Echipa
-5 persoane + 2 mentori
+4 persoane + 2 mentori\
+pair programming
 
 ## Tehnologii si limbaje de programare folosite
 Aplicatia a fost implementata in _ASP.NET MVC_ utilizand Visual Studio
